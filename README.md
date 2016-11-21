@@ -2,6 +2,8 @@
 
 Example React.js frontend for Infrastructure metrics fetched using New Relic Insights.
 
+![relaxing_data_from_new_relic_infrastructure_](https://cloud.githubusercontent.com/assets/27153/20505168/fe0262e6-afff-11e6-8b97-ac42f6b3db56.png)
+
 ### Requirements
 
 * [Create React App](https://github.com/facebookincubator/create-react-app).
